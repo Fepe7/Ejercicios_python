@@ -1,5 +1,3 @@
-from itertools import count
-
 
 def contar_vocales(palabra):
     contador_a = palabra.count("a")
